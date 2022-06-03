@@ -62,7 +62,7 @@ Neural Network Training is done:
 Performance of Model:
 ![image](https://user-images.githubusercontent.com/86974424/171813745-1f3f849c-7a70-4b2e-80fb-727dadd336d5.png
 
-Result: PID VS ANN
+Result: PID VS ANN # It can be seen that ANN performs better than PID controller for Powerplant systems and AVR but the image here shown are for Powerplant and it is verified for AVR. 
   ![image](https://user-images.githubusercontent.com/86974424/171815969-c308d602-8a18-4e76-9fe2-5cd9d05bc394.png)
   
 ## Note: We have to generate artificial neural network first with simulation file of any electrical sytem and then train the model and place it in the simulation file for result, therefore the other simulation file has no neural network model 
