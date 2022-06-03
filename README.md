@@ -18,7 +18,7 @@ Further we used Governor, Non reheated Turbine, Load and Machine in our system:
 
 For Thermal Power plant specifications taken are:
 
-Governor time const = 0.2 s
+Governor time const = 0.2 s\n
 Inertia Constant for Rotating mass and load = 5 MWs
 Turbine time constant = 0.5 s
 Load varies by 0.8 percent for a 1 percent change in frequency
